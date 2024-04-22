@@ -2,10 +2,10 @@
 
 <h2>Some Fun Projects:</h2>
 
-- <b>Simple Car Loan Calculator using Java)</b>
+- <b>Simple Car Loan Calculator using Java</b>
   - [Car Loan Project](https://github.com/asabatinod/CarLoan-Project)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Heart Rate and Blood Pressure: Is There a Connection? (Statistics Project Using MiniTab)</b>
+  - [Heart Project](https://docs.google.com/document/d/1i-xIcmIeN5YbN4KKAjrGBvarY83DhHN1/edit?usp=sharing&ouid=110194936942591363900&rtpof=true&sd=true) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
