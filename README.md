@@ -26,7 +26,7 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/anabella-sabatino-87b747235/)
+[linkedin]: [https://linkedin.com/in/anabellasabatino](https://www.linkedin.com/in/anabella-sabatino-87b747235/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
