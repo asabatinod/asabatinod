@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anabella! <br/> <a href="https://www.linkedin.com/in/anabella-sabatino/">Business Student at UF</a>
+<h1>Hi, I'm Anabella! <br/> <a href="www.linkedin.com/in/anabella-sabatino-87b747235/">Business Student at UF</a>
 
 <h2>Some Fun Projects:</h2>
 
